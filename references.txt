@@ -1,7 +1,0 @@
-# Banking use case
-https://www.linkedin.com/pulse/leveraging-generative-ai-aml-kyc-new-era-compliance-abhishek-mishra-lwvof/
-
-
-
-#list of genai Projects
-https://github.com/ashishpatel26/500-AI-Agents-Projects
