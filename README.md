@@ -2,6 +2,11 @@
 
 Theme: GenAI project to summarize complex KYC regulations and policies across jurisdictions, helping compliance teams stay updated and apply the correct rules during customer onboarding or reviews.
 
+# Current probleme statement : The main pain point
+
+Currently KYC follow Traditional methods involve manual review of dense legal documents which leads to inefficiencies and delays in onboarding or compliance checks.
+The KYC regulation are quite complex and vary by jurisdiction and most challanging it evolve frequently.
+
 
 # Goal of the project
 
@@ -13,7 +18,7 @@ Theme: GenAI project to summarize complex KYC regulations and policies across ju
 
 1. Reduces time spent on understanding complex regulations.
 2. Ensures compliance with global standards like FATF etc.
-3. Improves consistency in applying KYC policies every where ( uniformalities) .
+3. Improves consistency in applying KYC policies every where ( uniformalities).
 
 
 
